@@ -19,7 +19,7 @@ A base de dados refere-se aos registros de vendas de assinaturas do serviço Xbo
     * Pergunta Negócio 4 - Total de Vendas de Assinaturas do Minecraft Season Pass
 
 
-- [X] Criação do dashboard conforme modelo apresentado. [Clique aqui para visualizar o arquivo.]()
+- [X] Criação do dashboard conforme modelo apresentado. [Clique aqui para baixar o arquivo.](Dashboard_Vendas_stvmmuniz_rev00.xlsx)
 
 
      
